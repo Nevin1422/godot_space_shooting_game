@@ -1,0 +1,7 @@
+res://game_over.tscn
+res://game_over.gd
+res://scenes/ui.gd
+res://scenes/ui.tscn
+res://global/global.gd
+res://scenes/meteor.gd
+res://scenes/meteor.tscn
